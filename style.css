@@ -12,8 +12,8 @@ body{
     
 }
 .navbar .navbar-nav .nav-item a{
-    color: rgb(241, 236, 236);
-    font-size: 1.1rem;
+    color: (241, 236, 236);
+    font-size: 1.1;
     padding: 1.1rem; 
     transition: .3s;     
 }
